@@ -2,6 +2,6 @@
 #include <stdlib.h>
 int main()
 {
-  printf("Zdravo zdaaaaaaaaaaaaaaaaaaaravoo ZZZZZdravo ");
+  printf("Zdravo zdaaaaaaaaaaaaaaaaaaaravoo ZZZZZdravo");
   #jjjjjj
 }
